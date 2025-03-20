@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![cffdkx](https://img.shields.io/badge/cffdkx-github-blue?logo=github)](https://github.com/cffdkx)
 
 I'm currently pursuing a Undergraduate's degree in Hust.
 
