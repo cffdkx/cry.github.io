@@ -1,6 +1,2 @@
-- XXXXXXX论文
-
-- XXXXXXX论文
-
-- XXXXXXX论文
+- 暂未参与论文创作
 
