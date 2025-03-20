@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
+- 考上华中科技大学, 2024.  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- finish the page, 2025. 
