@@ -3,7 +3,22 @@
     <center><b>申请表</b></center>
     <hr><form action = "test.app" method = "post">
 
-      <p>姓名<input type = "text" name= "NAME" size = "10">
-        
+      <p>&nbsp;&nbsp;&nbsp;姓 &nbsp; 名:<input type = "text" name= "NAME" size = "10"></p>
+      <p>&nbsp;&nbsp;&nbsp;感兴趣的职位:</p>
+      <p><<input type="checkbox" name="Hobbies" value="ON">Web设计人员&nbsp;</p>
+      <p><<input type="checkbox" name="Hobbies" value="ON">Web管理人员&nbsp;</p>
+      <p><<input type="checkbox" name="Hobbies" value="ON">Web开发人员&nbsp;</p>
+      <p>&nbsp;&nbsp;&nbsp;其他要求:</p>
+      <p><textarea rows= "4" name= "REQUIREMENT" size = "10"></textarea></p>
+      <p>&nbsp;&nbsp;&nbsp;经验<select size = "1" name = "EX">
+      <option selected value = "S1"> 无经验</option>
+      <option selected value = "S2"> 从事过相关工作</option>
+      </select>
+      </p>
+      <p align = "center">
+        <input type = "submit" value = "提交" name ="B1">&nbsp;
+        &nbsp;<input type = "reset" value = "重置" name ="B2">
+      </p>
+    </form>
   </BODY>
 </HTML>
